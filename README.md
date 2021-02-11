@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하살법!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pneuma714)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Pneuma714/Pneuma714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
